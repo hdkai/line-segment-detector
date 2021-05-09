@@ -1,0 +1,23 @@
+# Python
+__pycache__
+.pytest_cache
+
+# Cython
+build/
+*.html
+*.c
+*.cpp
+*.so
+
+# Images
+*.png
+*.jpg
+*.gif
+
+# IDE
+.vscode
+.vs
+.idea
+
+# Misc
+.DS_Store
